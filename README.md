@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Sepedi Software<br>🌱 I’m currently learning Node, React and Docker<br>
+🌱 I’m currently learning Node, React and Docker<br>
 
 
 ## 🌐 Socials:
