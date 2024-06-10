@@ -1,20 +1,40 @@
-# 💫 About Me:
-🌱 I’m currently learning Node, React and Docker<br>
+# Hello 👋 I'm Enzo Figueiredo
+
+<a href="https://www.linkedin.com/in/enzo-morais-figueiredo-936532165/" >
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" height="30" style="margin-right:10px;" />
+</a>
+<a href="mailto:enzomfigueiredo11@gmail.com" width="30" height="30" style="margin-right:10px;" >
+<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="30" height="30" style="margin-right:10px;" />
+</a>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/enzo-morais-936532165/) 
+## 🚀Currently learning
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Enzomf&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Enzomf&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- IT managemant
+- Cloud
+- GO
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Enzomf&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 👀 Working on
 
----
-[![](https://visitcount.itsvg.in/api?id=Enzomf&icon=6&color=0)](https://visitcount.itsvg.in)
+- Campusflow a academic managemant software
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Terraflow a managemant system for grading companies (terraplanagens)
+
+- SEPEDI: an integrated system to manage records of the elderly and people with disabilities.
+
+## 💻 Tools I have been working with
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" height="45" style="margin-right:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" style="margin-right:10px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="45" height="45" style="margin-right:10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"  width="45" height="45" style="margin-right:10px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45" style="margin-right:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" style="margin-right:10px;"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="45" height="45" style="margin-right:10px;" />
+
+- Typescript
+- Tailwind CSS
+- Next.js
+- Node.js
+- Docker
+- PostgreSQL
+- Redis
+
+## 📊 GitHub Stats:
+
+![github stats](https://github-readme-streak-stats.herokuapp.com/?user=Enzomf&theme=dark&hide_border=false)<br/>
